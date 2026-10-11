@@ -1,6 +1,6 @@
 # LOLCODE Segway Navigation
 
-A joke Segway navigation simulator written in LOLCODE: from the STEM building
+A Segway navigation simulator written in LOLCODE: from the STEM building
 to the dean's office. OH HAI DEAN.
 
 ## Teh very official campus route
