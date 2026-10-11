@@ -1,5 +1,7 @@
 # LOLCODE Segway Navigation
 
+![Pixel-art campus adventure: a student rides a Segway from STEM to the dean's office, declaring OH HAI DEAN!](assets/banner.png)
+
 A Segway navigation simulator written in LOLCODE: from the STEM building
 to the dean's office. OH HAI DEAN.
 

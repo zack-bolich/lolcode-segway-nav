@@ -1,0 +1,8 @@
+Generated with the built-in image generation tool.
+
+Use case: stylized-concept.
+Asset type: wide GitHub README pixel art banner, approximately 3:1 landscape.
+Draw a charming funny 16-bit pixel-art banner for the project "LOLCODE SEGWAY NAV". This is a joke simulation of a Segway traveling from a STEM building through a campus quad and admin hall to the dean's office.
+Scene: a small fictional campus rendered like a beautifully composed retro adventure game. A STEM building on the left, a path through grass and the quad, and the dean's office entrance on the right. A goofy determined student rides a recognizable two-wheel self-balancing Segway with upright handlebar along the path toward the office. A small obstacle cone gives the journey comically excessive importance. A dotted route with small directional arrows connects the start and destination.
+Style: authentic crisp pixel art, consistent square pixel grid, hard edges, limited cohesive game palette, no smooth vector shapes, no photorealism, no blur. Warm welcoming campus colors with dark navy outlines and pale sky; polished and readable at README width.
+Composition: panoramic banner, generous margins, strong central title above scene. Pixel lettering text exactly "LOLCODE SEGWAY NAV". Building label exactly "STEM". Destination sign exactly "DEAN'S OFFICE". Small speech bubble near rider exactly "OH HAI DEAN!" No other text, no watermark. Lighthearted programming humor, game quest energy. All content contained within the frame.
