@@ -1,0 +1,7 @@
+Created with built-in image generation from banner-green.png; encoded as JPEG for GitHub's upload size limit.
+
+Create a 2:1 aspect ratio social link preview card from the supplied green-screen banner. Preserve the entire original 3:1 banner artwork including its exact "LOLCODE SEGWAY NAV" title, left STEM building, rider, right dean's office, and all scenery, without cropping either edge. Fit the full banner across the top two thirds of the 2:1 canvas, using the remaining lower third as a near-black panel with a restrained green pixel border. In the bottom panel add legible green monospace pixel text centered across three lines exactly:
+"A Segway navigation simulator written in LOLCODE:"
+"from the STEM building to the dean's office."
+"OH HAI DEAN."
+Keep original phosphor green and black monochrome style with subtle CRT scanlines. The new text is an excerpt of the README. Output a finished flat image, no mockup, no extra labels, no non-green colors. Preserve full scene and readable title, balanced padding.
