@@ -1,6 +1,23 @@
 # LOLCODE Segway Navigation
 
-A Segway navigation system written in LOLCODE. OH HAI DEAN.
+A joke Segway navigation simulator written in LOLCODE: from the STEM building
+to the dean's office. OH HAI DEAN.
+
+## Teh very official campus route
+
+Start at the STEM building facing north, then follow this entirely fictional
+185-meter route:
+
+| Leg | From → to | Heading | Distance |
+| --- | --- | --- | --- |
+| 1 | STEM building → quad | West (270°) | 40 m |
+| 2 | Quad → admin hall | North (0°) | 120 m |
+| 3 | Admin hall → dean's office | East (90°) | 25 m |
+
+A pretend obstacle interrupts each leg, the pretend Segway waits, and then it
+continues its extremely important academic mission. The last stop is the dean's
+office. No campus map, Arduino, or actual dean required—just run `./run.sh` to
+watch the commands scroll by.
 
 ## How it works
 
@@ -50,9 +67,9 @@ The port varies by machine; its serial settings must match the Arduino sketch.
 
 ## Limitations
 
-- **The route is placeholder data.** The three legs' headings and distances are
-  made up, not measured on a real campus. Walk the route with a compass app and a
-  measuring wheel, then edit the three `ROLL` calls at the bottom of the file.
+- **The route is fictional on purpose.** The three legs' headings and distances
+  are made up for the joke, not measured on a real campus. Edit the three `ROLL`
+  calls at the bottom of the file to invent your own campus adventure.
 - **The sensors are simulated.** `SNIFF` returns a fake sonar distance and
   `WOBBLE` returns a fake tilt. The obstacle-wait loop also simulates clearance.
   Real hardware needs two-way serial, which is awkward in LOLCODE because its
@@ -66,7 +83,7 @@ The first 12 lines and last 3 lines from an actual run are shown below. The
 ellipsis marks omitted output.
 
 ```text
-BTW LEG 1 STEM DOOR 2 MAIN PATH
+BTW LEG 1 STEM BILDING 2 QUAD
 TURN -90
 DRIVE 120
 DRIVE 120

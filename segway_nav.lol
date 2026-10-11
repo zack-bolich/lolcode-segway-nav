@@ -16,8 +16,8 @@ OBTW
     MOTOR 0 0            stop both motors
     ESTOP                emergency stop, cut power
 
-  Teh route legs at teh bottom are PLACEHOLDERS. Walk teh route with a
-  compass app and a measuring wheel, then fill in real headings and meters.
+  Teh route is a pretend campus adventure. No actual dean was navigated to.
+  STEM BILDING, then QUAD, then ADMIN HALL, then TEH DEANZ OFFIS.
 TLDR
 
 BTW shortest turn from wun heading to anuther, result is -180 to 180
@@ -87,15 +87,15 @@ IF U SAY SO
 BTW TEH ROUTE. heading in degrees, 0 is north. distances in meters
 I HAS A heading ITZ 0
 
-heading R I IZ ROLL YR "1 STEM DOOR 2 MAIN PATH" AN YR 270 AN YR 40 AN YR heading MKAY
+heading R I IZ ROLL YR "1 STEM BILDING 2 QUAD" AN YR 270 AN YR 40 AN YR heading MKAY
 BOTH SAEM heading AN -1, O RLY?
   YA RLY, VISIBLE "BTW ABORTD ON LEG 1"
   NO WAI
-    heading R I IZ ROLL YR "2 MAIN PATH" AN YR 0 AN YR 120 AN YR heading MKAY
+    heading R I IZ ROLL YR "2 QUAD 2 ADMIN HALL" AN YR 0 AN YR 120 AN YR heading MKAY
     BOTH SAEM heading AN -1, O RLY?
       YA RLY, VISIBLE "BTW ABORTD ON LEG 2"
       NO WAI
-        heading R I IZ ROLL YR "3 2 ADMIN BILDING DOOR" AN YR 90 AN YR 25 AN YR heading MKAY
+        heading R I IZ ROLL YR "3 ADMIN HALL 2 DEANZ OFFIS" AN YR 90 AN YR 25 AN YR heading MKAY
         BOTH SAEM heading AN -1, O RLY?
           YA RLY, VISIBLE "BTW ABORTD ON LEG 3"
           NO WAI, VISIBLE "BTW I HAS ARRIVD. OH HAI DEAN. KTHX."
