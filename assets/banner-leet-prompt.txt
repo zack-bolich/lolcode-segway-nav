@@ -1,0 +1,3 @@
+Edited with the built-in image generation tool from the previous green-screen banner.
+
+Edit only the main title at the top of this green-screen pixel art banner. Replace "LOLCODE SEGWAY NAV" with the exact l33t text "L0LC0D3 S3GW4Y N4V". Exact characters: L, zero, L, C, zero, D, three; space; S, three, G, W, four, Y; space; N, four, V. Match the existing large green bitmap monospace lettering and placement. Preserve the wide 3:1 canvas, monochrome phosphor green palette, black background, CRT scanlines, all campus scenery, rider on Segway, route arrows, cone, and every other label and speech bubble unchanged. No extra text.
